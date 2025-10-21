@@ -3,14 +3,14 @@ Ce projet, réalisé dans le cadre de la SAE 2.08, consiste à implémenter un s
 
 Le défi principal a été de migrer un schéma Oracle existant vers PostgreSQL avant de configurer les droits.
 
-# # Objectifs
+## Objectifs
  • Migrer une base de données d'Oracle vers PostgreSQL en adaptant la syntaxe SQL.
 
  • Implémenter une politique de sécurité RBAC pour gérer les permissions.
 
  • Partitionner les accès en fonction des rôles métiers de l'hôpital (médecins, secrétaires, etc.).
 
-# # Technologies et Outils
+## Technologies et Outils
  • SGBD : PostgreSQL
 
  • Administration : PgAdmin 4
@@ -19,7 +19,7 @@ Le défi principal a été de migrer un schéma Oracle existant vers PostgreSQL 
 
  • Langage : SQL (migration de dialecte Oracle vers PostgreSQL)
 
-# # Compétences acquises
+## Compétences acquises
  • Migration de SGBD (Oracle vers PostgreSQL).
 
  • Administration des droits et sécurisation d'une base de données via RBAC.
